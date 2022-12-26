@@ -12,4 +12,4 @@ clear
 wget -O expressinstall.sh https://raw.githubusercontent.com/coolkiddev/fluffy-spork/main/installreqs.sh
 wget -O index.js https://raw.githubusercontent.com/coolkiddev/fluffy-spork/main/index.js
 wget -O start.sh https://raw.githubusercontent.com/coolkiddev/fluffy-spork/main/start.sh
-echo "p2pclient --login jilgfadyovchr@karenkey.com" > run.sh
+echo "p2pclient --login coolkiddev@proton.me" > run.sh
